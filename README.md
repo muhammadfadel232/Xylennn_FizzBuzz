@@ -1,7 +1,6 @@
 # Xylennn_FizzBuzz
 ## Tugas Algoritma
 *Nama:* Muhamad Fadel Ibrahim 
-
 *NIM:* [251011701054]  
 *Matkul:* Algoritma dan Struktur Data
 
