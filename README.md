@@ -12,4 +12,4 @@ Soal 2: Program dalam gambar tersebut berfungsi sebagai algoritma konversi waktu
 ## Jalankan Program
 Klik tombol di bawah ini untuk menjalankan kode langsung di browser:
 
-[![Open In Colab](https://colab.research.google.com/github/muhammadfadel232/Xylennn_FizzBuzz/blob/main/Muhamad_Fadel_Tugas_Algoritma_dan_Struktur_Data.ipynb)
+[![https://colab.research.google.com/github/muhammadfadel232/Xylennn_FizzBuzz/blob/main/Muhamad_Fadel_Tugas_Algoritma_dan_Struktur_Data.ipynb]
