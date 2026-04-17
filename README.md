@@ -30,8 +30,10 @@ Klik tombol di bawah ini untuk menjalankan kode langsung di browser👇🏻
 
 
 ### Tugas Pertemuan 7 - Manipulasi Data & Matriks
-Soal 1: → 
-Soal 2: → 
+Soal 1: → Barisan Fibonacci: Fungsinya ini untuk mengikuti notasi algoritma rekursif untuk mencari deret angka, Contoh Jika nilai N masih kecil atau sama dengan 1 , maka fungsi akan berhenti dan mengembalikan nilai itu sendiri. Jika lebih dari 1, maka fungsi akan menjumlahkan hasil dari dua pemanggilan dirinya sendiri sebelumnya (N-2 dan N-1) sampai deretnya terbentuk.
+           
+
+Soal 2: → Perkalian M x N: Fungsinya sama Melakukan perkalian dengan konsep dasar matematika, yaitu penjumlahan yang dilakukan secara berulang-ulang. Untuk cara kerjanya itu Fungsi ini akan mengambil angka pertama (M) dan menjumlahkannya terus-menerus sebanyak jumlah pengali (N). Setiap kali menjumlahkan, nilai pengali (N) akan dikurangi satu, dan fungsi baru akan berhenti total saat nilai pengali tersebut sudah habis atau menyentuh angka nol.
 
 ## Jalankan Program
 Klik tombol di bawah ini untuk menjalankan kode langsung di browser👇🏻
