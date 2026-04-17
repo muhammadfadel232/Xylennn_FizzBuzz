@@ -1,4 +1,4 @@
-## Tugas Algoritma
+## 📁Repository Tugas Algoritma
 *Nama:* Muhamad Fadel Ibrahim*
 *NIM:* 251011701054*
 *Matkul:* Algoritma dan Struktur Data*
@@ -27,3 +27,15 @@ Klik tombol di bawah ini untuk menjalankan kode langsung di browser👇🏻
 
 ### Tugas Pertemuan 5
 [Jalankan Kode Pertemuan 5 Klik Disini Ya😁👍](https://colab.research.google.com/github/muhammadfadel232/Xylennn_FizzBuzz/blob/main/Tugas%20Pertemuan%205%20Algoritma.ipynb)
+
+
+### Tugas Pertemuan 7 - Manipulasi Data & Matriks
+Soal 1: → 
+Soal 2: → 
+
+## Jalankan Program
+Klik tombol di bawah ini untuk menjalankan kode langsung di browser👇🏻
+
+### Tugas Pertemuan 7
+[Jalankan Kode Pertemuan 7 Klik Disini Ya😁👍](https://colab.research.google.com/github/muhammadfadel232/Xylennn_FizzBuzz/blob/main/Tugas%20Pertemuan%205%20Algoritma.ipynb)
+
